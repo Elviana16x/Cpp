@@ -4,7 +4,7 @@
 #include <array>
 using namespace std;
 //fungsi pengurutan data
-//logika (jika (n < n -1) lakukan pertukaran nilai)
+//logika (jika (n < n - 1) lakukan pertukaran data)
 void bubbleSort (int *array, int ukuran) {
      int tukar;
      for (int data {0}; data < ukuran -1; data++) {
