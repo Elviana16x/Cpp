@@ -1,4 +1,3 @@
-/* > > > > > > > > > > > -> C++_Elviana16x <- < < < < < < < < < < */
 #include <iostream>
 #include <cstdio>
 #include <array>
